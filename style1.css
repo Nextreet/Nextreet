@@ -47,7 +47,7 @@ margin-right: 30px;
 .topInfo{
 position: relative;
 }
-.topInfocoment{
+.topInfocomment{
 position: absolute;
 top: -750px;
 left: 200px;
@@ -59,7 +59,7 @@ color:white;
 .topInfo2{
 
 }
-.topInfo2coment{
+.topInfo2comment{
     margin-top: 30px;
     width: 100vw;
     text-align: center;
@@ -68,16 +68,22 @@ color:white;
 .gameImg{
 
 }
-.gameImgAndComent{
+.gameImgAndcomment{
 display:flex;
 justify-content: space-around;
 margin-top: 30px;
 }
-.ffImgAndComent{
+.ffImgAndcomment{
 }
 .ffimg{
 
 }
-.coment{
+.comment{
 text-align: center;
+}
+.vrccomment{
+margin-top: 30px;
+width: 100vw;
+text-align: center;
+font-size: 20px;
 }
