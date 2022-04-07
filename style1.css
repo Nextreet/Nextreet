@@ -1,0 +1,83 @@
+html{
+overflow-x: hidden;
+}
+body{
+    margin: 0px;
+}
+.container{
+}
+.header{
+display: flex;
+justify-content: space-between;
+background-color: black;
+width: 100vw;
+height:50px;
+overflow:auto;
+position: fixed;
+top: 0px;
+left: 0px;
+}
+.headerLeft{
+
+}
+.headerLeft img{
+width:auto;
+height:auto;
+max-width:100%;
+max-height:100%;
+}
+.headerRight{
+color:white;
+font-size:large;
+margin-top: 10px;
+margin-right: 30px;
+}
+.menu{
+margin-right: 30px;
+}
+.main{
+
+}
+.topImg{
+}
+
+.ff{
+
+}
+.topInfo{
+position: relative;
+}
+.topInfocoment{
+position: absolute;
+top: -750px;
+left: 200px;
+font-size: 30px;
+font-weight: bolder;
+background-color: black;
+color:white;
+}
+.topInfo2{
+
+}
+.topInfo2coment{
+    margin-top: 30px;
+    width: 100vw;
+    text-align: center;
+    font-size: 20px;
+}
+.gameImg{
+
+}
+.gameImgAndComent{
+display:flex;
+justify-content: space-around;
+margin-top: 30px;
+}
+.ffImgAndComent{
+}
+.ffimg{
+
+}
+.coment{
+text-align: center;
+}
