@@ -71,9 +71,11 @@ color:white;
 .gameImgAndcomment{
 display:flex;
 justify-content: space-around;
+flex-wrap: wrap;
 margin-top: 30px;
 }
 .ffImgAndcomment{
+ margin-right: 50px;
 }
 .ffimg{
 
