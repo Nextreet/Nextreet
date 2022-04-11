@@ -77,8 +77,9 @@ margin-top: 30px;
 .ffImgAndcomment{
  margin-right: 50px;
 }
-.ffimg{
-
+.ffimg1 :hover{
+display: inline-block;
+transform: scale(1.1);
 }
 .comment{
 text-align: center;
